@@ -1,5 +1,5 @@
 package learning.Strings;
-//reduce method performs binary operation on two Varibales 
+//reduce method performs binary operation on two Variables 
 import java.util.stream.IntStream;
 
 class Solution1 {
