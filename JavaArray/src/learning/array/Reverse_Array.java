@@ -6,6 +6,7 @@ class Solution1{
 		for(int i=a.length-1;i>=0;i--) {
 			System.out.print(a[i]+" ");
 		}
+	
 	}
 }
 public class Reverse_Array {
