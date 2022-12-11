@@ -15,7 +15,7 @@ public class Collection_Interface {
 
 	public static void main(String[] args) {
 		Solution1 s=new Solution1();
-				s.use_all_methods("acb","cba","cdb");
+				//s.use_all_methods("acb","cba","cdb");
 
 	}
 

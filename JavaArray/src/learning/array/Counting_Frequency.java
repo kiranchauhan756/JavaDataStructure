@@ -14,10 +14,10 @@ class Solution8 {
 		}
 		int key=0;
           for(int e=0;e<nums.length/2;e++) {
-        	  if(map.get(nums[e]>nums.length)) {
+        	 // if(map.get(nums[e]>nums.length)) {
         		  key=nums[e];
         	  }
-          }
+         // }
           return key;
           
         
